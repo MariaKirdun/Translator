@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Translator</string>
+
+    <string name="learn_words">Learn Words</string>
+    <string name="quiz">Start Quiz</string>
+    <string name="learned">Learned</string>
+    <string name="not_learned">Not learned</string>
+    <string name="partially_learned">Partially learned</string>
+</resources>
